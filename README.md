@@ -45,3 +45,9 @@ pip install openvino ultralytics opencv-python numpy
 
 ## Status
 Work in progress (Created for GSoC 2026 proposal)
+
+## Next Steps
+- Implement YOLOv8 model loading
+- Convert to OpenVINO IR
+- Add inference example
+- Benchmark latency
