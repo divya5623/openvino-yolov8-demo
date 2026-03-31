@@ -51,3 +51,8 @@ Work in progress (Created for GSoC 2026 proposal)
 - Convert to OpenVINO IR
 - Add inference example
 - Benchmark latency
+
+## Project Motivation
+This repository is created as a preliminary implementation for my Google Summer of Code 2026 proposal. 
+The goal is to demonstrate practical OpenVINO model conversion and optimization workflows 
+that will be expanded into interactive notebooks during the GSoC period.
